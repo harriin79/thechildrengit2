@@ -25,7 +25,7 @@
       ]
     },
     "versionFirst": "4.5.2",
-    "uniqCompNum": 2,
+    "uniqCompNum": 3,
     "versionPublish": "4.5.2",
     "favicon": "",
     "noImageResize": ""
@@ -156,12 +156,12 @@
             "Theme"
           ],
           "_name": "header1",
-          "_anchor": "header1-1",
           "_styles": {
             ".mbr-section-title": {
               "font-size": "72px"
             }
-          }
+          },
+          "_anchor": "header1-2"
         }
       ]
     }
